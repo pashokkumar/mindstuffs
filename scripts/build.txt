@@ -3,7 +3,7 @@ main.js
 ----------------
 angular.js
 angular-route.js
-textAngular-sanitize.js
+sanitize.js
 textAngularSetup.js
 rangy.js
 rangy-core.js
@@ -33,5 +33,7 @@ services/get-set-service.js
 services/index.js
 app.js
 routes.js
+jquery.js
+bootstrap.js
 bootstrapMain.js
 main.js
